@@ -24,8 +24,9 @@ header {
   height: 8vh;
 }
 
-.logo img {
-  width: 120px;
+.logo {
+  color: #fff;
+  font-size: 30px;
 }
 
 header nav {
